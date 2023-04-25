@@ -4,7 +4,7 @@ Official pytoch tutorial 'Learn the basic'
 | File | Description |
 | --- | --- |
 | 0-quickstart.ipynb |  |
-| 1-tensors.ipynb |  |
+| 1-tensors.ipynb | tensor 자료구조 |
 | 2-data.ipynb |  |
 | 3-transforms.ipynb |  |
 | 4-build-model.ipynb |  |
