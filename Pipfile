@@ -8,6 +8,7 @@ torch = "*"
 torchvision = "*"
 ipykernel = "*"
 matplotlib = "*"
+pandas = "*"
 
 [dev-packages]
 
